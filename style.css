@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+:root {
+    --bs-success-rgb: 255, 153, 204;
+    --bs-font-sans-serif: "Quicksand", sans-serif;
+    --bs-body-font-family: var(--bs-font-sans-serif);
+}
